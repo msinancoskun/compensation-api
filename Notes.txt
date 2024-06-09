@@ -1,0 +1,1 @@
+sort ederken query string'de keywordun basinda eksi varsa descending order ile sort edilecek
